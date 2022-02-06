@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+header h1 {
+  padding: 20px;
+  color: #696969;
+}
+
+main {
+  width: 840px;
+  padding: 50px 0;
+  margin: 0 auto;
+}
+
+section {
+  border-bottom: 1px solid rgb(65, 65, 65);
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+}
+
+.wc-logo {
+  height: 37px;
+  width: 180px;
+  background-image: url(img/wc-logo.png);
+  margin-bottom: 10px;
+}
+
+.wcp-logo {
+  height: 37px;
+  width: 180px;
+  background-image: url(img/wcp-logo.png);
+  margin-bottom: 10px;
+}
+
+.wcw-logo {
+  height: 10px;
+  width: 180px;
+  background-image: url(img/wcw-logo.png);
+  margin-bottom: 10px;
+}
+
+.wcc-logo {
+  height: 10px;
+  width: 180px;
+  background-image: url(img/wcc-logo.png);
+  margin-bottom: 10px;
+}
